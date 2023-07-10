@@ -34,10 +34,10 @@ The dataset contained the following information.
 ## Project Setup
 You need to have Python 3 on your system (a Python version lower than 3.10). Then you can clone this repo and being at the repo's root:: repository_name> ... follow the steps below:
 
-_Windows:
+- Windows:
 python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt
 
-_Linux & MacOs:
+- Linux & MacOs:
 python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt
 
 Both long command lines have the same structure, they pipe multiple commands using the symbol, but you may manually execute them one after another.
@@ -59,7 +59,8 @@ To access the documentation of your API, you can simply add “/docs” to the U
 
 http://127.0.0.1:8000/docs
 
-**GIF
+### Screenshot
+
 ![Sreenshot](https://user-images.githubusercontent.com/102419217/243078928-a8352c5f-afea-43b1-8bf5-c24607cf3481.gif)
 
 # Suggestion :handshake:

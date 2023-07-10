@@ -4,7 +4,7 @@ Build Machine Learning Model with FastAPI
 ### My Online Presence
 ![GitHub](https://github.com/nhavim) ![Medium Articles](https://medium.com/@nhavim123) ![LinkedIn](https://www.linkedin.com/in/nathaniel-havim)
 
-![Cover_Image](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/12361-sepsis)
+![Cover_Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.labiotech.eu%2Fwp-content%2Fuploads%2F2019%2F09%2Fsepsis-diagnosis-abionic-blood-infection-1200x900.jpg&tbnid=bEgNGx2-f9cCOM&vet=10COYBEDMotAJqFwoTCLDsjpD_hIADFQAAAAAdAAAAABAE..i&imgrefurl=https%3A%2F%2Fwww.labiotech.eu%2Ftrends-news%2Fabionic-sepsis-diagnosis%2F&docid=3-oSp4WDxceMCM&w=1200&h=900&q=sepsis%20images&hl=en&ved=0COYBEDMotAJqFwoTCLDsjpD_hIADFQAAAAAdAAAAABAE)
 
 ### Introduction
 This project focuses on predicting sepsis disease using data collected on patients based on classification machine learning techniques and FastAPI to build a simple but user-friendly app for real-time prediction for early detection of the sepsis condition among patients.

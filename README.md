@@ -21,8 +21,7 @@ This project focuses on predicting sepsis disease using data collected on patien
 |-------------|--------|---------------------------------|
 | TS          | False  | Blood Word Result-3 (mu U/ml)   |
 |-------------|--------|---------------------------------|
-| M11         | False  | Body Mass Index (weight in kg)/
-(height in m)^2|
+| M11         | False  | Body Mass Index (weight in kg)/(height in m)^2|
 |-------------|--------|---------------------------------|
 | BD2         | False  | Blood Work Result-4 (mu U/)
 |-------------|--------|---------------------------------|
